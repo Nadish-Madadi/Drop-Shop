@@ -1,2 +1,2 @@
 # Drop-Shop
-E-Commerce website with HTML and CSS
+E-Commerce website made with HTML and CSS
